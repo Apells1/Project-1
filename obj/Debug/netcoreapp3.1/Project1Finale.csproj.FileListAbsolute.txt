@@ -1,0 +1,13 @@
+C:\Users\andre\OneDrive\Desktop\.netDB\Project1Finale\bin\Debug\netcoreapp3.1\Project1Finale.exe
+C:\Users\andre\OneDrive\Desktop\.netDB\Project1Finale\bin\Debug\netcoreapp3.1\Project1Finale.deps.json
+C:\Users\andre\OneDrive\Desktop\.netDB\Project1Finale\bin\Debug\netcoreapp3.1\Project1Finale.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\.netDB\Project1Finale\bin\Debug\netcoreapp3.1\Project1Finale.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Desktop\.netDB\Project1Finale\bin\Debug\netcoreapp3.1\Project1Finale.dll
+C:\Users\andre\OneDrive\Desktop\.netDB\Project1Finale\bin\Debug\netcoreapp3.1\Project1Finale.pdb
+C:\Users\andre\OneDrive\Desktop\.netDB\Project1Finale\obj\Debug\netcoreapp3.1\Project1Finale.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\.netDB\Project1Finale\obj\Debug\netcoreapp3.1\Project1Finale.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\.netDB\Project1Finale\obj\Debug\netcoreapp3.1\Project1Finale.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\.netDB\Project1Finale\obj\Debug\netcoreapp3.1\Project1Finale.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\.netDB\Project1Finale\obj\Debug\netcoreapp3.1\Project1Finale.dll
+C:\Users\andre\OneDrive\Desktop\.netDB\Project1Finale\obj\Debug\netcoreapp3.1\Project1Finale.pdb
+C:\Users\andre\OneDrive\Desktop\.netDB\Project1Finale\obj\Debug\netcoreapp3.1\Project1Finale.genruntimeconfig.cache
